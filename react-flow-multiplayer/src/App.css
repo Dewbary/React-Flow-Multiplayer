@@ -1,0 +1,7 @@
+.reactFlow {
+  position: absolute;
+  height: calc(100% - 60px);
+  width: calc(100% - 236px);
+  right: 0;
+  background-color: #fff;
+}
